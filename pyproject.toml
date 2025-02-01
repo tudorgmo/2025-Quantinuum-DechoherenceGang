@@ -1,0 +1,17 @@
+[project]
+name = "hlsim"
+version = "0.1.0"
+description = "Quantinuum iQuHack 2025 challenge on Hamiltonian and Lindbladian simulation."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.3.4",
+    "matplotlib>=3.10.0",
+    "pylatexenc>=2.10",
+    "pytket>=1.37.0",
+    "pytket-qiskit>=0.62.0",
+    "pytket-quantinuum",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
