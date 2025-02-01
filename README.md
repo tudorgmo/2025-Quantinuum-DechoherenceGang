@@ -27,7 +27,8 @@ Below we describe the two parts of the Quantinuum iQuHack 2025 challenge. For ea
 - Supporting claims with data
 - Relevance of the results
 - Quality of presentation
-- Clear explanation of the used methods and tools
+- Clear explanation of results
+- Statement of the used methods and tools
 - It should be somehow related to circuit simulations of quantum systems.
 
 
