@@ -1,6 +1,6 @@
 # Decoherence Gang
 
-Team members: Michelle Qin, Tudor Mocioi, Onkar Aptem, Sayak Mukharji, Corrado Giancoli.
+Team members: Michelle Qin, Tudor Mocioi, Onkar Aptem, Sayak Mukherjee, Corrado Giancoli.
 Our solutions can be found in `notebooks/solutions_hamiltonian.ipynb` and `notebooks/solutions_lindblad.ipynb`.
 
 # Quantinuum Challenge: Hamiltonian and Lindbladian simulation
