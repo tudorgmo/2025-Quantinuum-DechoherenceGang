@@ -1,3 +1,8 @@
+# Decoherence Gang
+
+Team members: Michelle Qin, Tudor Mocioi, Onkar Aptem, Sayak Mukharji, Corrado Giancoli
+Our solutions can be found in `notebooks/solutions_hamiltonian.ipynb` and `notebooks/solutions_lindblad.ipynb`.
+
 # Quantinuum Challenge: Hamiltonian and Lindbladian simulation
 
 In the Quantinuum iQuHack 2025 challenge we explore ways to simulate physical quantum systems on a digital quantum computer. Quantum system simulation has a huge relevance for applications, for example in quantum chemistry and the molecular sciences.
